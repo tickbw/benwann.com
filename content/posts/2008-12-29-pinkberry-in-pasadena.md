@@ -1,0 +1,29 @@
+---
+title: Pinkberry in Pasadena
+author: Ben Wann
+type: post
+date: 2008-12-29T05:27:08+00:00
+url: /2008/12/29/pinkberry-in-pasadena/
+wpil_sync_report3:
+  - 1
+wpil_links_inbound_internal_count_data:
+  - 'a:0:{}'
+wpil_links_outbound_internal_count_data:
+  - 'a:0:{}'
+wpil_links_outbound_external_count_data:
+  - 'a:0:{}'
+wpil_sync_report2_time:
+  - 2023-01-04T23:31:48+00:00
+categories:
+  - dessert
+  - dining
+tags:
+  - dessert
+  - vacation
+
+---
+Enjoyed some awesome dessert at a place called Pinkberry. This place is SOOOOO good. Plain rather tart frozen yogurt, then add some delicious fresh fruit. I added the kiwi, strawberry, and pineapple. Again SOOOOOOO good.
+
+[<img decoding="async" loading="lazy" src="https://benwann.com/wp-content/uploads/2008/12/p-640-480-41be4d38-fefa-4667-beee-d9b697695178.jpeg" alt="" width="225" height="300" class="alignnone size-full wp-image-364" />][1]
+
+ [1]: https://benwann.com/wp-content/uploads/2008/12/p-640-480-41be4d38-fefa-4667-beee-d9b697695178.jpeg
